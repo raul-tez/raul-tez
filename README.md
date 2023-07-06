@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning React and Django
 - 💞️ I’m looking to collaborate on GitHub
+- ✨ Currently working from home
 - Looking for a professional experience
 
 <!---
