@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning React and Django
 - 💞️ I’m looking to collaborate on GitHub
+- Looking for a professional experience
 
 <!---
 raul-tez/raul-tez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
